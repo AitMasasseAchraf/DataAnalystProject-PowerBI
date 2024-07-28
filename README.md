@@ -1,4 +1,4 @@
-# DataAnalystProject-ODD
+# DataAnalystProject-PowerBI
 
 📊 [odd_poster-3](./odd3_poster.pdf)
 
